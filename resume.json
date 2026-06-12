@@ -1,0 +1,59 @@
+{
+  "header": {
+    "name": "Ірина Коваленко",
+    "title": "Frontend Engineer",
+    "email": "iryna.k@example.com",
+    "phone": "+380 67 123-45-67",
+    "location": "Київ, Україна",
+    "linkedin": ""
+  },
+  "summary": "Розробляю інтерфейси з 2019 року, спеціалізуюся на TypeScript та React, маю досвід ведення проєктів у міжнародних командах.",
+  "experience": [
+    {
+      "company": "SoftServe",
+      "position": "Software Engineer",
+      "period": "2022-04 – now",
+      "projects": [
+        {
+          "name": "E-commerce Platform",
+          "description": "Міграція фронтенду на TypeScript та Next.js, впровадження SSR.",
+          "technologies": ["TypeScript", "Next.js"],
+          "isRecent": true
+        }
+      ]
+    },
+    {
+      "company": "EPAM",
+      "position": "Junior Frontend Developer",
+      "period": "2019-09 – 2022-03",
+      "projects": [
+        {
+          "name": "Admin Dashboard",
+          "description": "Створення візуального конструктора звітів.",
+          "technologies": ["React", "Redux"],
+          "isRecent": false
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "КНУ імені Тараса Шевченка",
+      "degree": "Магістр",
+      "field": "Комп'ютерні науки",
+      "year": "2019"
+    }
+  ],
+  "skills": {
+    "technical": [
+      "TypeScript",
+      "React",
+      "HTML5",
+      "CSS Modules",
+      "Git",
+      "Webpack",
+      "Jest"
+    ],
+    "soft": ["Ukrainian (рідна)", "English (B2)"]
+  }
+}
